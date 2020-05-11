@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "calendar-70a70": {
+      "hosting": {
+        "calendar": [
+          "calendar-70a70"
+        ]
+      }
+    }
+  }
+}
